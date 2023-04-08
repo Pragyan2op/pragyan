@@ -1,12 +1,9 @@
-body {
-    background-color: #FFE6C7
+div{
+    background-color: #77037B;
 }
-
-hr {
-    
-    border-style: none;
-    border-top-style: dotted ;
-    height: 0px;
-    border-width: 5px;
-    width: 25%;
+body{
+    margin: 0;
+}
+h1{
+    margin-top:0;
 }
